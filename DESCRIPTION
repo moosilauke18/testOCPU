@@ -1,6 +1,5 @@
 Package: testOCPU
 Title: testing OCPU
-Version: 0.0.1
 Version: 0.1
 Author: Evan Farrell <evandev@gastrograph.com>
 Maintainer: Evan Farrell <evandev@gastrograph.com>
