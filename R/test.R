@@ -6,3 +6,9 @@ testFunc <- function() {
   })
   return(test2)
 }
+
+#' @export
+test2Func <- function() {
+  test <- data.frame(test=c(1,2,3,4,5), name=c("test1", "test2", "test3", "test4", "test5"))
+  return(test)
+}
